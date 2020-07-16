@@ -1,5 +1,6 @@
 package com.tma.training.java;
 
+
 /**
  * Hello world!
  *
